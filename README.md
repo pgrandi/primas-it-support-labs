@@ -11,13 +11,13 @@ This repository documents hands-on IT support and infrastructure labs focused on
 
 ## Current Labs
 
-01 - Windows Installation
-02 - Hardware Identification
-03 - Network Troubleshooting
-04 - User Permissions
-05 - Printer Troubleshooting
-06 - Malware Response
-07 - Ticket Documentation
+|01 - Windows Installation|
+|02 - Hardware Identification|
+|03 - Network Troubleshooting|
+|04 - User Permissions|
+|05 - Printer Troubleshooting|
+|06 - Malware Response|
+|07 - Ticket Documentation|
 
 ## Goal
 
