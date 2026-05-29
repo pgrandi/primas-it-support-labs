@@ -206,6 +206,41 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 11 - Install a Power Supply
+
+**Objective:** Replace a failed power supply with a compatible unit and properly connect all required motherboard, CPU, and storage power connections.
+
+### Skills Demonstrated
+- Power Supply Installation
+- ATX Motherboard Power Connections
+- CPU Power Connections
+- SATA Power Connections
+- Desktop PC Hardware Assembly
+- Hardware Troubleshooting
+- System Startup Verification
+
+📁 [Open Lab](./11-Install-A-Power-Supply)
+
+---
+
+## 12 - Troubleshoot Power Supply Problems
+
+**Objective:** Diagnose a failed power supply using a power supply tester, replace the defective PSU, reconnect system components, and verify successful startup.
+
+### Skills Demonstrated
+- Power Supply Troubleshooting
+- Power Supply Testing
+- Hardware Diagnostics
+- PSU Replacement
+- ATX Motherboard Power Connections
+- CPU Power Connections
+- SATA Power Connections
+- Desktop PC Repair
+
+📁 [Open Lab](./12-Troubleshoot-Power-Supply-Problems)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
