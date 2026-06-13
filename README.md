@@ -141,7 +141,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - Hardware Configuration
 - IT Support Fundamentals
 
-📁 [Open Lab](./06-Set-Up-A-Desktop-Computer)
+📁 [Open Lab](./06-set-up-a-desktop-computer)
 
 ---
 
@@ -156,7 +156,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - USB Header Installation
 - Hardware Compatibility
 
-📁 [Open Lab](./07-Choose-And-Install-A-Motherboard)
+📁 [Open Lab](./07-choose-and-install-a-motherboard)
 
 ---
 
@@ -171,7 +171,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - Power Supply Connections
 - Hardware Upgrades
 
-📁 [Open Lab](./08-Upgrade-A-Video-Card)
+📁 [Open Lab](./08-upgrade-a-video-card)
 
 ---
 
@@ -186,7 +186,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - Windows Display Settings
 - PCIe Power Connections
 
-📁 [Open Lab](./09-Select-And-Configure-Dual-Monitors)
+📁 [Open Lab](./09-select-and-configure-dual-monitors)
 
 ---
 
@@ -202,7 +202,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - SATA Storage Installation
 - Disk Management
 
-📁 [Open Lab](./10-Set-Up-An-AV-Workstation)
+📁 [Open Lab](./10-set-up-an-av-workstation)
 
 ---
 
@@ -219,7 +219,7 @@ My background includes leadership, troubleshooting, process improvement, and han
 - Hardware Troubleshooting
 - System Startup Verification
 
-📁 [Open Lab](./11-Install-A-Power-Supply)
+📁 [Open Lab](./11-install-a-power-supply)
 
 ---
 
@@ -238,6 +238,23 @@ My background includes leadership, troubleshooting, process improvement, and han
 - Desktop PC Repair
 
 📁 [Open Lab](./12-Troubleshoot-Power-Supply-Problems)
+
+---
+
+## 13 - Install SATA Devices
+
+**Objective:** Install two SATA hard drives, connect them to motherboard SATA ports, provide power from the power supply, and verify proper storage device installation.
+
+### Skills Demonstrated
+- SATA Hard Drive Installation
+- SATA Data Cable Connections
+- SATA Power Connections
+- Motherboard SATA Port Configuration
+- Internal Storage Device Installation
+- Desktop Hardware Assembly
+- Hardware Configuration
+
+📁 [Open Lab](./13-install-sata-devices)
 
 ---
 
