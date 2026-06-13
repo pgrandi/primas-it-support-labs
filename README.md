@@ -311,6 +311,23 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 17 - Find BIOS/UEFI Settings
+
+**Objective:** Access BIOS/UEFI firmware settings and identify key hardware and system configuration information.
+
+### Skills Demonstrated
+- BIOS/UEFI Navigation
+- Firmware Configuration
+- Hardware Information Gathering
+- System Configuration Review
+- Memory Verification
+- Processor Identification
+- Desktop Support Fundamentals
+
+📁 [Open Lab](./17-find-bios-uefi-settings)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
