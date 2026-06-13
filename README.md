@@ -258,6 +258,21 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 14 - Select Memory by Sight
+
+**Objective:** Identify the correct RAM module by examining motherboard memory slots and install the appropriate memory into the system.
+
+### Skills Demonstrated
+- RAM Identification
+- DDR4 Memory Recognition
+- Motherboard Component Identification
+- Memory Slot Analysis
+- Desktop Hardware Installation
+- Hardware Compatibility Verification
+- PC Assembly Fundamentals
+
+📁 [Open Lab](./14-select-memory-by-sight)
+
 # Current Learning Roadmap
 
 ### Hardware & Support
