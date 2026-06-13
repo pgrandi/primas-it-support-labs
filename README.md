@@ -273,6 +273,25 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 📁 [Open Lab](./14-select-memory-by-sight)
 
+---
+
+## 15 - Install Triple Channel Memory
+
+**Objective:** Install three matching DDR3 memory modules, configure triple-channel memory operation, and verify the configuration in BIOS.
+
+### Skills Demonstrated
+- Triple-Channel Memory Configuration
+- DDR3 Memory Installation
+- Memory Compatibility Verification
+- DIMM Slot Identification
+- Motherboard Documentation Analysis
+- BIOS Verification
+- Hardware Configuration
+
+📁 [Open Lab](./15-install-triple-channel-memory)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
