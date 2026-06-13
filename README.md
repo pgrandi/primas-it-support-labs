@@ -292,6 +292,25 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 16 - Troubleshoot Memory
+
+**Objective:** Diagnose memory-related boot failures, replace defective RAM, upgrade installed memory, document corrective actions, and close the support ticket.
+
+### Skills Demonstrated
+- Memory Troubleshooting
+- Hardware Diagnostics
+- RAM Testing
+- Fault Isolation
+- Memory Replacement
+- Customer Ticket Management
+- Hardware Upgrades
+- Desktop Support Procedures
+- Technical Documentation
+
+📁 [Open Lab](./16-troubleshoot-memory)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
