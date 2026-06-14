@@ -345,6 +345,22 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 19 - Troubleshoot System Power
+
+**Objective:** Diagnose and resolve workstation power issues by inspecting hardware connections, correcting power supply settings, and restoring normal system operation.
+
+### Skills Demonstrated
+- Power Supply Troubleshooting
+- Hardware Diagnostics
+- Power Connection Verification
+- PSU Voltage Configuration
+- Desktop Hardware Support
+- IT Help Desk Ticket Resolution
+- System Startup Verification
+
+📁 [Open Lab](./19-troubleshoot-system-power)
+
+---
 
 # Current Learning Roadmap
 
