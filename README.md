@@ -328,6 +328,24 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 18 - Configure BIOS/UEFI Security
+
+**Objective:** Configure BIOS/UEFI security settings to protect a workstation from unauthorized configuration changes, hard drive access, and physical tampering.
+
+### Skills Demonstrated
+- BIOS/UEFI Administration
+- TPM Configuration
+- Hard Drive Security
+- Hardware Security Controls
+- Chassis Intrusion Detection
+- Security Hardening
+- System Verification
+
+📁 [Open Lab](./18-configure-bios-uefi-security)
+
+---
+
+
 # Current Learning Roadmap
 
 ### Hardware & Support
