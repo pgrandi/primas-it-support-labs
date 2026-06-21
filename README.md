@@ -454,6 +454,28 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 25 - Troubleshoot a Malfunctioning Computer
+
+**Objective:** Diagnose and repair a desktop computer that would not boot by testing hardware components, identifying failed devices, and replacing defective hardware to restore normal system operation.
+
+### Skills Demonstrated
+- Power Supply Diagnostics
+- Hardware Troubleshooting
+- PSU Testing and Replacement
+- DDR3 Memory Diagnostics
+- RAM Replacement
+- Motherboard Power Connections
+- SATA Power Connectivity
+- POST Troubleshooting
+- Windows Boot Verification
+- Desktop PC Repair
+- Root Cause Analysis
+- Technical Documentation
+
+📁 [Open Lab](./25-troubleshoot-a-malfunctioning-computer)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
