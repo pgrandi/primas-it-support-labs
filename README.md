@@ -416,6 +416,24 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 23 - Troubleshoot GPU
+
+**Objective:** Diagnose and resolve a display issue by identifying a disconnected GPU power connection and restoring proper video output functionality.
+
+### Skills Demonstrated
+- GPU Troubleshooting
+- Graphics Card Installation Verification
+- PCIe Power Connector Configuration
+- Hardware Diagnostics
+- Display Troubleshooting
+- Desktop Hardware Support
+- Video Output Verification
+- System Startup Troubleshooting
+
+📁 [Open Lab](./23-troubleshoot-gpu)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
