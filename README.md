@@ -398,6 +398,24 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 22 - Troubleshoot Drive Availability
+
+**Objective:** Diagnose and resolve a boot failure by verifying drive detection in BIOS/UEFI settings and configuring the correct boot sequence to restore Windows startup.
+
+### Skills Demonstrated
+- BIOS/UEFI Configuration
+- Boot Sequence Management
+- Drive Availability Troubleshooting
+- Hard Drive Verification
+- System Startup Diagnostics
+- Hardware Troubleshooting
+- Operating System Boot Verification
+- Desktop Support
+
+📁 [Open Lab](./22-troubleshoot-drive-availability)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
