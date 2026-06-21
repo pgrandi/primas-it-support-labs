@@ -362,6 +362,24 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 20 - Troubleshoot System Startup
+
+**Objective:** Diagnose and correct startup issues after a motherboard replacement by identifying hardware configuration problems and restoring normal system boot functionality.
+
+### Skills Demonstrated
+- Hardware Troubleshooting
+- Motherboard Diagnostics
+- CPU Fan Installation and Verification
+- System Startup Troubleshooting
+- Power Connection Validation
+- Desktop Hardware Support
+- PC Repair and Maintenance
+- Operating System Boot Verification
+
+📁 [Open Lab](./20-troubleshoot-system-startup)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
