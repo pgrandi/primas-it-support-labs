@@ -434,6 +434,26 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 24 - Resolve PC Hardware Support Tickets
+
+**Objective:** Diagnose and resolve multiple hardware-related support tickets involving monitor power, memory installation, and display connectivity issues while documenting resolutions and closing support requests.
+
+### Skills Demonstrated
+- Hardware Troubleshooting
+- IT Support Ticket Resolution
+- PC Startup Diagnostics
+- Memory Installation and Verification
+- Monitor Troubleshooting
+- Display Connectivity Troubleshooting
+- End User Support
+- Desktop Hardware Support
+- Root Cause Analysis
+- Technical Documentation
+
+📁 [Open Lab](./24-resolve-pc-hardware-support-tickets)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
