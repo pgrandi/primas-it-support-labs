@@ -380,6 +380,24 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 21 - Troubleshoot Boot Issues
+
+**Objective:** Diagnose and resolve system boot failures after a power supply replacement by identifying missing power and storage connections and restoring normal startup functionality.
+
+### Skills Demonstrated
+- Boot Troubleshooting
+- Hardware Diagnostics
+- Power Supply Installation Verification
+- SATA Power Configuration
+- SATA Data Cable Configuration
+- Motherboard Power Verification
+- Desktop Hardware Support
+- System Startup Verification
+
+📁 [Open Lab](./21-troubleshoot-boot-issues)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
