@@ -476,6 +476,86 @@ My background includes leadership, troubleshooting, process improvement, and han
 
 ---
 
+## 26 - Select and Install a Network Adapter
+
+**Objective:** Install the fastest available PCIe Ethernet network adapter, connect the workstation to the local network using the new NIC, and verify connectivity to both the local network and the internet using PowerShell.
+
+### Skills Demonstrated
+- Network Adapter Installation
+- PCIe Expansion Card Installation
+- Ethernet Cabling
+- Network Connectivity
+- LAN Troubleshooting
+- Internet Connectivity Testing
+- PowerShell
+- Ping Diagnostics
+- Desktop Hardware Support
+- Hardware Upgrades
+
+📁 [Open Lab](./26-select-and-install-a-network-adapter)
+
+---
+
+## 27 - Connect Patch Panel Cables
+
+**Objective:** Connect a workstation to the wired network by patching the appropriate switch and patch panel ports, connect the workstation to the wall outlet, configure the workstation to obtain IP and DNS settings automatically using DHCP, and verify network connectivity.
+
+### Skills Demonstrated
+- Patch Panel Cabling
+- Ethernet Cabling
+- Network Switch Configuration
+- Structured Cabling
+- DHCP Configuration
+- Automatic IP Address Assignment
+- Automatic DNS Configuration
+- Windows Network Settings
+- IP Configuration Verification
+- Network Connectivity Troubleshooting
+
+📁 [Open Lab](./27-connect-patch-panel-cables)
+
+---
+
+## 28 - Connect Computers with a Switch
+
+**Objective:** Build a basic local area network by connecting multiple computers to an Ethernet switch, connecting the switch to a router, and creating a functional network topology using the TestOut Network Modeler.
+
+### Skills Demonstrated
+- Network Topology Design
+- Ethernet Switching
+- Router-to-Switch Connectivity
+- LAN Configuration
+- Network Modeling
+- Network Device Interconnection
+- Basic Network Architecture
+- Physical Network Planning
+- Ethernet Networking
+- Network Infrastructure Fundamentals
+
+📁 [Open Lab](./28-connect-computers-with-a-switch)
+
+---
+
+## 29 - Secure a Small Wireless Network
+
+**Objective:** Configure and secure a small wireless network by assigning an SSID, enabling WPA2-Personal encryption, creating a strong wireless password, and connecting a client device to the secured Wi-Fi network.
+
+### Skills Demonstrated
+- Wireless Router Configuration
+- Wireless Network Security
+- WPA2-Personal (WPA2-PSK)
+- SSID Configuration
+- Wi-Fi Password Configuration
+- Wireless Client Connectivity
+- Access Point Administration
+- Home Network Security
+- Web-Based Router Management
+- Wireless Networking Fundamentals
+
+📁 [Open Lab](./29-secure-a-small-wireless-network)
+
+---
+
 # Current Learning Roadmap
 
 ### Hardware & Support
